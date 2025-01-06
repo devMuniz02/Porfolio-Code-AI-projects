@@ -15,12 +15,12 @@ AI-ML-Code-and-projects/
 ├── Imitation Learning/       # Reinforcement Learning projects
 ├── Model optimization/       # Model optimization techniques in TensorFlow
 │   ├── tensorflow/
+├── RNN/                     # Recurrent Neural Networks projects
+│   ├── tensorflow/
 ├── Reinforcement learning/   # Reinforcement Learning projects
 │   ├── tensorflow/
 │   ├── stable_baselines3/
 │   ├── pytorch/
-├── RNN/                     # Recurrent Neural Networks projects
-│   ├── tensorflow/
 ```
 
 ## Included Topics
@@ -39,17 +39,17 @@ Implemented in TensorFlow.
 ### 3. **Imitation Learning**
 Projects exploring Reinforcement Learning techniques applied to imitation learning tasks.
 
-### 4. **Recurrent Neural Networks (RNN)**
-Applications of RNNs for sequence modeling tasks like:
-- Time series forecasting (LSTM)
-- Natural language processing  
-Implemented in TensorFlow.
-
-### 5. **Model Optimization**
+### 4. **Model Optimization**
 Techniques for optimizing machine learning models in TensorFlow, including:
 - Pruning
 - Quantization
 - Weight clustering
+
+### 5. **Recurrent Neural Networks (RNN)**
+Applications of RNNs for sequence modeling tasks like:
+- Time series forecasting (LSTM)
+- Natural language processing  
+Implemented in TensorFlow.
 
 ### 6. **Reinforcement Learning (RL)**
 Projects and experiments with RL algorithms for tasks like policy optimization and environment interaction. Implementations include:
