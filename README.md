@@ -7,51 +7,55 @@ The repository is organized into folders based on topics and frameworks to make 
 
 ```
 AI-ML-Code-and-projects/
-├── datasets/                 # Shared datasets and preprocessing scripts
 ├── cnn/                      # Convolutional Neural Networks projects
 │   ├── tensorflow/
 │   ├── pytorch/
-├── rnn/                      # Recurrent Neural Networks projects
+├── Generative modeling/      # Generative Adversarial Networks projects
 │   ├── tensorflow/
-│   ├── pytorch/
-├── transformers/             # Transformer-based model projects
-│   ├── huggingface/
+├── Imitation Learning/       # Reinforcement Learning projects
+├── LSTM/                     # Recurrent Neural Networks projects
 │   ├── tensorflow/
-│   ├── pytorch/
-├── gan/                      # Generative Adversarial Networks projects
+├── Model optimization/       # Model optimization techniques in TensorFlow
 │   ├── tensorflow/
-│   ├── pytorch/
-├── rl/                       # Reinforcement Learning projects
+├── Reinforcement learning/   # Reinforcement Learning projects
+│   ├── tensorflow/
 │   ├── stable_baselines3/
-│   ├── tensorflow/
-├── auto_ml/                  # AutoML projects and libraries
-│   ├── autokeras/
-│   ├── h2o/
-├── utilities/                # Shared scripts for preprocessing, evaluation, and visualization
+│   ├── pytorch/
 ```
 
 ## Included Topics
 
 ### 1. **Convolutional Neural Networks (CNN)**
-Projects using CNN architectures for tasks such as image classification, object detection, and segmentation. Includes implementations in TensorFlow and PyTorch.
+Projects using CNN architectures for image classification, object detection, and other computer vision tasks, with implementations in:
+- TensorFlow
+- PyTorch
 
-### 2. **Recurrent Neural Networks (RNN)**
-Applications of RNNs for sequence modeling tasks like natural language processing (NLP) and time series forecasting.
+### 2. **Generative Modeling**
+Projects focused on Generative Adversarial Networks (GANs) for tasks such as:
+- Image generation
+- Style transfer
+Implemented in TensorFlow.
 
-### 3. **Transformer Models**
-Projects utilizing state-of-the-art Transformer architectures, including BERT, GPT, and custom Transformer implementations.
+### 3. **Imitation Learning**
+Projects exploring Reinforcement Learning techniques applied to imitation learning tasks.
 
-### 4. **Generative Adversarial Networks (GAN)**
-Implementations of GANs for tasks like image generation, style transfer, and domain adaptation.
+### 4. **Recurrent Neural Networks (RNN)**
+Applications of RNNs for sequence modeling tasks like:
+- Time series forecasting (LSTM)
+- Natural language processing  
+Implemented in TensorFlow.
 
-### 5. **Reinforcement Learning (RL)**
-Experiments with RL algorithms using libraries like Stable Baselines3 and custom implementations.
+### 5. **Model Optimization**
+Techniques for optimizing machine learning models in TensorFlow, including:
+- Pruning
+- Quantization
+- Weight clustering
 
-### 6. **AutoML**
-Exploration of automated machine learning tools and libraries, such as AutoKeras and H2O.
-
-### 7. **Utilities**
-Reusable scripts for tasks like data preprocessing, model evaluation, and visualization.
+### 6. **Reinforcement Learning (RL)**
+Projects and experiments with RL algorithms for tasks like policy optimization and environment interaction. Implementations include:
+- TensorFlow
+- Stable Baselines3
+- PyTorch
 
 ## How to Use
 1. Clone the repository:
