@@ -13,14 +13,14 @@ AI-ML-Code-and-projects/
 ├── Generative modeling/      # Generative Adversarial Networks projects
 │   ├── tensorflow/
 ├── Imitation Learning/       # Reinforcement Learning projects
-├── LSTM/                     # Recurrent Neural Networks projects
-│   ├── tensorflow/
 ├── Model optimization/       # Model optimization techniques in TensorFlow
 │   ├── tensorflow/
 ├── Reinforcement learning/   # Reinforcement Learning projects
 │   ├── tensorflow/
 │   ├── stable_baselines3/
 │   ├── pytorch/
+├── RNN/                     # Recurrent Neural Networks projects
+│   ├── tensorflow/
 ```
 
 ## Included Topics
