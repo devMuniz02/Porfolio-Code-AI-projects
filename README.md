@@ -21,6 +21,8 @@ AI-ML-Code-and-projects/
 │   ├── tensorflow/
 │   ├── stable_baselines3/
 │   ├── pytorch/
+├── Transfer learning/   # Transfer Learning projects
+│   ├── tensorflow/
 ```
 
 ## Included Topics
