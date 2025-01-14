@@ -59,7 +59,7 @@ Projects and experiments with RL algorithms for tasks like policy optimization a
 - Stable Baselines3
 - PyTorch
 
-### 7. **Transfer Learning **
+### 7. **Transfer Learning**
 Projects usign pretained models with transfer learning. Implementations include:
 - TensorFlow
 
