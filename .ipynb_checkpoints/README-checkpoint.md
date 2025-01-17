@@ -7,6 +7,10 @@ The repository is organized into folders based on topics and frameworks to make 
 
 ```
 AI-ML-Code-and-projects/
+├── Autonomous warehouse car - In progress until May 2025/      # Autonomous warehouse car project
+│   ├── QR Reader/
+│   ├── Line follower/
+│   ├── Movement/
 ├── cnn/                      # Convolutional Neural Networks projects
 │   ├── tensorflow/
 │   ├── pytorch/
@@ -15,15 +19,20 @@ AI-ML-Code-and-projects/
 ├── Imitation Learning/       # Reinforcement Learning projects
 ├── Model optimization/       # Model optimization techniques in TensorFlow
 │   ├── tensorflow/
+├── RNN/                     # Recurrent Neural Networks projects
+│   ├── tensorflow/
 ├── Reinforcement learning/   # Reinforcement Learning projects
 │   ├── tensorflow/
 │   ├── stable_baselines3/
 │   ├── pytorch/
-├── RNN/                     # Recurrent Neural Networks projects
+├── Transfer learning/   # Transfer Learning projects
 │   ├── tensorflow/
 ```
 
 ## Included Topics
+
+### **In progress**
+- Autonomous warehouse car / Until May 2025
 
 ### 1. **Convolutional Neural Networks (CNN)**
 Projects using CNN architectures for image classification, object detection, and other computer vision tasks, with implementations in:
@@ -39,23 +48,27 @@ Implemented in TensorFlow.
 ### 3. **Imitation Learning**
 Projects exploring Reinforcement Learning techniques applied to imitation learning tasks.
 
-### 4. **Recurrent Neural Networks (RNN)**
-Applications of RNNs for sequence modeling tasks like:
-- Time series forecasting (LSTM)
-- Natural language processing  
-Implemented in TensorFlow.
-
-### 5. **Model Optimization**
+### 4. **Model Optimization**
 Techniques for optimizing machine learning models in TensorFlow, including:
 - Pruning
 - Quantization
 - Weight clustering
+
+### 5. **Recurrent Neural Networks (RNN)**
+Applications of RNNs for sequence modeling tasks like:
+- Time series forecasting (LSTM)
+- Natural language processing  
+Implemented in TensorFlow.
 
 ### 6. **Reinforcement Learning (RL)**
 Projects and experiments with RL algorithms for tasks like policy optimization and environment interaction. Implementations include:
 - TensorFlow
 - Stable Baselines3
 - PyTorch
+
+### 7. **Transfer Learning**
+Projects usign pretained models with transfer learning. Implementations include:
+- TensorFlow
 
 ## How to Use
 1. Clone the repository:

@@ -7,6 +7,10 @@ The repository is organized into folders based on topics and frameworks to make 
 
 ```
 AI-ML-Code-and-projects/
+├── Autonomous warehouse car - In progress until May 2025/      # Autonomous warehouse car project
+│   ├── QR Reader/
+│   ├── Line follower/
+│   ├── Movement/
 ├── cnn/                      # Convolutional Neural Networks projects
 │   ├── tensorflow/
 │   ├── pytorch/
@@ -26,6 +30,9 @@ AI-ML-Code-and-projects/
 ```
 
 ## Included Topics
+
+### **In progress**
+- Autonomous warehouse car / Until May 2025
 
 ### 1. **Convolutional Neural Networks (CNN)**
 Projects using CNN architectures for image classification, object detection, and other computer vision tasks, with implementations in:
