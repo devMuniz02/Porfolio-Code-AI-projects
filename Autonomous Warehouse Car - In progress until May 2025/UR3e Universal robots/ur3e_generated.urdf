@@ -1,0 +1,137 @@
+<robot name="ur3e">
+  <link name="base">
+    <visual>
+      <geometry>
+        <mesh filename="meshes/ur3e/visual/base.dae" />
+      </geometry>
+      <material name="LightGrey">
+        <color rgba="0.7 0.7 0.7 1.0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/ur3e/collision/base.stl" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="shoulder">
+    <visual>
+      <geometry>
+        <mesh filename="meshes/ur3e/visual/shoulder.dae" />
+      </geometry>
+      <material name="LightGrey">
+        <color rgba="0.7 0.7 0.7 1.0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/ur3e/collision/shoulder.stl" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="upper_arm">
+    <visual>
+      <geometry>
+        <mesh filename="meshes/ur3e/visual/upperarm.dae" />
+      </geometry>
+      <material name="LightGrey">
+        <color rgba="0.7 0.7 0.7 1.0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/ur3e/collision/upperarm.stl" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="forearm">
+    <visual>
+      <geometry>
+        <mesh filename="meshes/ur3e/visual/forearm.dae" />
+      </geometry>
+      <material name="LightGrey">
+        <color rgba="0.7 0.7 0.7 1.0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/ur3e/collision/forearm.stl" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="wrist_1">
+    <visual>
+      <geometry>
+        <mesh filename="meshes/ur3e/visual/wrist1.dae" />
+      </geometry>
+      <material name="LightGrey">
+        <color rgba="0.7 0.7 0.7 1.0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/ur3e/collision/wrist1.stl" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="wrist_2">
+    <visual>
+      <geometry>
+        <mesh filename="meshes/ur3e/visual/wrist2.dae" />
+      </geometry>
+      <material name="LightGrey">
+        <color rgba="0.7 0.7 0.7 1.0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/ur3e/collision/wrist2.stl" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="wrist_3">
+    <visual>
+      <geometry>
+        <mesh filename="meshes/ur3e/visual/wrist3.dae" />
+      </geometry>
+      <material name="LightGrey">
+        <color rgba="0.7 0.7 0.7 1.0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="meshes/ur3e/collision/wrist3.stl" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="shoulder_pan_joint" type="revolute">
+    <parent link="shoulder_pan" />
+    <child link="shoulder_pan" />
+    <limit lower="-6.283185307179586" upper="6.283185307179586" velocity="3.141592653589793" effort="54.0" />
+  </joint>
+  <joint name="shoulder_lift_joint" type="revolute">
+    <parent link="shoulder_lift" />
+    <child link="shoulder_lift" />
+    <limit lower="-6.283185307179586" upper="6.283185307179586" velocity="3.141592653589793" effort="54.0" />
+  </joint>
+  <joint name="elbow_joint" type="revolute">
+    <parent link="elbow" />
+    <child link="elbow" />
+    <limit lower="-3.141592653589793" upper="3.141592653589793" velocity="3.141592653589793" effort="28.0" />
+  </joint>
+  <joint name="wrist_1_joint" type="revolute">
+    <parent link="wrist_1" />
+    <child link="wrist_1" />
+    <limit lower="-6.283185307179586" upper="6.283185307179586" velocity="6.283185307179586" effort="9.0" />
+  </joint>
+  <joint name="wrist_2_joint" type="revolute">
+    <parent link="wrist_2" />
+    <child link="wrist_2" />
+    <limit lower="-6.283185307179586" upper="6.283185307179586" velocity="6.283185307179586" effort="9.0" />
+  </joint>
+  <joint name="wrist_3_joint" type="revolute">
+    <parent link="wrist_3" />
+    <child link="wrist_3" />
+    <limit lower="0" upper="0" velocity="6.283185307179586" effort="9.0" />
+  </joint>
+</robot>
