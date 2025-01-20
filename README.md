@@ -1,6 +1,6 @@
 # AI and Machine Learning Projects Repository
 
-Welcome to the **AI and Machine Learning Projects Repository**! This repository is a collection of my personal projects, experiments, and implementations using various Artificial Intelligence (AI) and Machine Learning (ML) techniques and frameworks.
+Welcome to the **AI and Machine Learning Projects Repository**! This repository is a collection of my personal projects, experiments, and implementations using various Artificial Intelligence (AI), Machine Learning (ML) techniques and frameworks and other fun projects.
 
 ## Repository Structure
 The repository is organized into folders based on topics and frameworks to make navigation simple and intuitive. Below is an overview of the folder structure:
@@ -76,7 +76,7 @@ Projects usign pretained models with transfer learning. Implementations include:
    git clone https://github.com/devMuniz02/AI-ML-Code-and-projects.git
    ```
 2. Navigate to the folder of interest and explore the projects and notebooks.
-3. Ensure you have the required dependencies installed. Each project folder includes a `README.md` with setup instructions.
+3. Ensure you have the required dependencies installed.
 
 ## Dependencies
 Most projects use popular Python libraries such as:
@@ -87,8 +87,6 @@ Most projects use popular Python libraries such as:
 - Matplotlib
 - HuggingFace Transformers
 - Stable Baselines3
-
-Refer to the `README.md` files in individual folders for specific dependencies and setup instructions.
 
 ## Contributions
 Contributions are welcome! Feel free to submit a pull request or open an issue if you have ideas for improvements, new projects, or bug fixes.
