@@ -33,11 +33,16 @@ AI-ML-Code-and-projects/
 
 ### **In progress**
 - Autonomous warehouse car / Until May 2025
+<img src="https://www.hiwonder.com/cdn/shop/products/1_6e85e9c0-9159-4cbf-a56e-1bfedd29c624.jpg?v=1675655593" alt="Hiwonder TurboPi Robot Car" width="300">
+
 
 ### 1. **Convolutional Neural Networks (CNN)**
 Projects using CNN architectures for image classification, object detection, and other computer vision tasks, with implementations in:
 - TensorFlow
 - PyTorch
+
+![image](https://github.com/user-attachments/assets/8e872fe0-2a87-4034-96be-560d364944cd)
+
 
 ### 2. **Generative Modeling**
 Projects focused on Generative Adversarial Networks (GANs) for tasks such as:
