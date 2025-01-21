@@ -73,6 +73,7 @@ Projects and experiments with RL algorithms for tasks like policy optimization a
 - TensorFlow
 - Stable Baselines3
 - PyTorch
+- [Robot 3-DOF Reinforcement learning control](https://github.com/devMuniz02/Robot-3-DOF-Reinforcement-learning-control/)
 
 ### 7. **Transfer Learning**
 Projects usign pretained models with transfer learning. Implementations include:
