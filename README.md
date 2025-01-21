@@ -32,8 +32,11 @@ AI-ML-Code-and-projects/
 ## Included Topics
 
 ### **In progress**
-- Autonomous warehouse car / Until May 2025
-<img src="https://www.hiwonder.com/cdn/shop/products/1_6e85e9c0-9159-4cbf-a56e-1bfedd29c624.jpg?v=1675655593" alt="Hiwonder TurboPi Robot Car" width="300">
+- Autonomous warehouse car (UDEM) / Until May 2025
+
+Use of Hiwonder omnidirectional car and Universal robot UR3e in a warehouse grid-like route.
+
+<img src="https://www.hiwonder.com/cdn/shop/products/1_6e85e9c0-9159-4cbf-a56e-1bfedd29c624.jpg?v=1675655593" alt="Hiwonder TurboPi Robot Car" width="300"> <img src="https://github.com/user-attachments/assets/0564c594-d1a3-4e21-8262-5e8d54ea3cb6" alt="image" width="300">
 
 
 ### 1. **Convolutional Neural Networks (CNN)**
