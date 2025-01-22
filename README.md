@@ -39,7 +39,9 @@ AI-ML-Code-and-projects/
 Use of Hiwonder omnidirectional car and Universal robot UR3e in a warehouse grid-like route.
 
 <img src="https://www.hiwonder.com/cdn/shop/products/1_6e85e9c0-9159-4cbf-a56e-1bfedd29c624.jpg?v=1675655593" alt="Hiwonder TurboPi Robot Car" width="300"> <img src="https://github.com/user-attachments/assets/0564c594-d1a3-4e21-8262-5e8d54ea3cb6" alt="image" width="300">
-
+- [QR Reader](https://github.com/devMuniz02/QR-Reader)
+- [Car lane detector](https://github.com/devMuniz02/Car-lane-detector/)
+- [Image Color Detection](https://github.com/devMuniz02/Image-Color-Detection/)
 
 ### 1. **Convolutional Neural Networks (CNN)**
 Projects using CNN architectures for image classification, object detection, and other computer vision tasks, with implementations in:
