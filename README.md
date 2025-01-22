@@ -42,6 +42,7 @@ Use of Hiwonder omnidirectional car and Universal robot UR3e in a warehouse grid
 - [QR Reader](https://github.com/devMuniz02/QR-Reader)
 - [Car lane detector](https://github.com/devMuniz02/Car-lane-detector/)
 - [Image Color Detection](https://github.com/devMuniz02/Image-Color-Detection/)
+- [Autonomous Car control](https://github.com/devMuniz02/Autonomous-car-control/)
 
 ### 1. **Convolutional Neural Networks (CNN)**
 Projects using CNN architectures for image classification, object detection, and other computer vision tasks, with implementations in:
