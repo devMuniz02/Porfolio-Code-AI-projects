@@ -1,5 +1,7 @@
 # AI and Machine Learning Projects Repository
 
+> **Warning:** Projects are being migrated to individual repositories. Stay tuned for updates.
+
 Welcome to the **AI and Machine Learning Projects Repository**! This repository is a collection of my personal projects, experiments, and implementations using various Artificial Intelligence (AI), Machine Learning (ML) techniques and frameworks and other fun projects.
 
 ## Repository Structure
@@ -32,7 +34,7 @@ AI-ML-Code-and-projects/
 ## Included Topics
 
 ### **In progress**
-- Autonomous warehouse car (UDEM) / Until May 2025
+- [Autonomous warehouse car](https://github.com/devMuniz02/Autonomous-warehouse-car) (UDEM) / Until May 2025
 
 Use of Hiwonder omnidirectional car and Universal robot UR3e in a warehouse grid-like route.
 
@@ -66,7 +68,7 @@ Techniques for optimizing machine learning models in TensorFlow, including:
 Applications of RNNs for sequence modeling tasks like:
 - Time series forecasting (LSTM)
 - Natural language processing  
-Implemented in TensorFlow.
+- [Stock Prediction with LSTM and Sentiment Analysis](https://github.com/devMuniz02/Stock-prediction-LSTM-Sentiment-Analysis-Python)
 
 ### 6. **Reinforcement Learning (RL)**
 Projects and experiments with RL algorithms for tasks like policy optimization and environment interaction. Implementations include:
@@ -74,6 +76,7 @@ Projects and experiments with RL algorithms for tasks like policy optimization a
 - Stable Baselines3
 - PyTorch
 - [Robot 3-DOF Reinforcement learning control](https://github.com/devMuniz02/Robot-3-DOF-Reinforcement-learning-control/)
+- [Reinforcement-Learning-Stock-Portfolio-Management](https://github.com/devMuniz02/Reinforcement-Learning-Stock-Porfolio-Managment)
 
 ### 7. **Transfer Learning**
 Projects usign pretained models with transfer learning. Implementations include:
