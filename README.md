@@ -79,6 +79,19 @@ Projects and experiments with RL algorithms for tasks like policy optimization a
 - Stable Baselines3
 - PyTorch
 - [Robot 3-DOF Reinforcement learning control](https://github.com/devMuniz02/Robot-3-DOF-Reinforcement-learning-control/)
+
+| Before Training | 
+|-----------------|
+| ![Before Training](https://github.com/user-attachments/assets/92e5f981-94b3-4f45-a8ed-d4abaee6008d) |
+
+| After 100,000 Steps |
+|---------------------|
+| ![After Training 100k](https://github.com/user-attachments/assets/6f4025b6-8d30-4702-b31c-d8a78891e88a) |
+
+| After 500,000 Steps |
+|---------------------|
+| ![After Training 500k](https://github.com/user-attachments/assets/e42b7651-4394-4c50-a5e6-0f62e65f6f22) |
+
 - [Reinforcement-Learning-Stock-Portfolio-Management](https://github.com/devMuniz02/Reinforcement-Learning-Stock-Porfolio-Managment)
 
 ### 7. **Transfer Learning**
