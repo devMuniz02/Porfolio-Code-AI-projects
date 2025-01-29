@@ -33,6 +33,9 @@ AI-ML-Code-and-projects/
 
 ## Included Topics
 
+### **Coming soon**
+- Implementation of DeepSeek R1 distilled 1.5B on linux
+
 ### **In progress**
 - [Autonomous warehouse car](https://github.com/devMuniz02/Autonomous-warehouse-car) (UDEM) / Until May 2025
 
