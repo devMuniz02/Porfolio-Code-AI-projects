@@ -26,9 +26,16 @@ See the full list of my courses and professional certificates on my LinkedIn Pro
 
 ### **In progress**
 
-- [DINOv3 Interactive Patch Cosine Similarity Viewer](https://github.com/devMuniz02/DINOv3-Interactive-Patch-Cosine-Similarity)
+- DINOv3 Interactive Patch Cosine Similarity Viewer 
+   - [Github Repo](https://github.com/devMuniz02/DINOv3-Interactive-Patch-Cosine-Similarity)
+   - [Hugging Face Space](https://huggingface.co/spaces/manu02/DINOv3-Interactive-Patch-Cosine-Similarity)
 
+### Gradio App [TRY IT NOW](https://huggingface.co/spaces/manu02/DINOv3-Interactive-Patch-Cosine-Similarity)
+![Gradio App Hugging Face Spaces](assets/GradioAppTest.gif)
+
+### Some results
 ![Multiple Interactive Patch Similarity Demo](assets/Multiple_Interactive_test_video.gif)
+
 
 ### Computer Vision / Autonomous vehicles
 - [Autonomous warehouse car](https://github.com/devMuniz02/Autonomous-warehouse-car) (UDEM)
